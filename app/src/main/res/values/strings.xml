@@ -1,0 +1,48 @@
+<resources>
+    //layout main
+    <string name="app_name">My Application</string>
+    <string name="txt_dni">Ingresa tu DNI</string>
+    <string name="txt_password">Ingresa tu password</string>
+    <string name="btn_entrar">ENTRAR</string>
+    <string name="btn_registrar">REGISTRARSE</string>
+    <string name="btn_salir">SALIR</string>
+
+    //layout opciones
+    <string name="rb_pelicula1">La siren</string>
+    <string name="rb_pelicula2">La fuga de Anabelle XX</string>
+    <string name="rb_pelicula3">Otra historia de huevos</string>
+    <string name="rb_pelicula4">La venganza de Anita la huerfanita </string>
+    <string name="rb_horario1">9:00 am - 11:00 am</string>
+    <string name="rb_horario2">3:00 pm - 5:00 pm </string>
+    <string name="rb_horario3">9:00 pm - 11:00 pm</string>
+    <string name="btn_reservar">HACER NUEVA RESERVA </string>
+    <string name="btn_ver_reservas">VER RESERVAS </string>
+    <string name="btn_eliminar_reservas">ELIMINAR RESERVAS </string>
+    <string name="btn_regresar_main">REGRESAR</string>
+    <string name="txt_peliculas">PELICULAS</string>
+    <string name="txt_horarios">HORARIOS</string>
+
+    //layout registro
+    <string name="txt_reg_nombre">Ingrese su nombre</string>
+    // String txt_reg_nombre = "Ingrese su nombre";
+    <string name="txt_reg_dni">Ingrese su DNI</string>
+    <string name="txt_reg_celular">Ingrese su celular</string>
+    <string name="txt_reg_password">Ingrese un password</string>
+    <string name="btn_registro">REGISTRO</string>
+    <string name="btn_atras">ATRAS</string>
+    <string name="txt_ingresame">Ingresa tus datos</string>
+
+    <string name="tv_titulo_reservas">Tus reservaciones</string>
+    //<string name="tv_">Ingresa tus datos</string>
+
+    <!--    //Strings de peliculas
+    <string name="p1">La sirenita</string>
+    <string name="p2">Django</string>
+    <string name="p3">Resident Evil </string>
+    <string name="p4">La huerfanita </string>
+-->
+
+
+    //Strings de horarios
+
+</resources>
